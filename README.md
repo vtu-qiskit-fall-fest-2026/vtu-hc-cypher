@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Cypher** · Team ID `VTU-QFF-HC-0157` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Cypher)
+[⬆ Back to Top](#cypher)
 
 </div>
